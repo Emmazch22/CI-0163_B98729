@@ -22,6 +22,6 @@ A continuación se presentan los ejercicios realizados, puede dar click para acc
 En caso de que el notebook tenga algún ejercicio, la solución se encuentra en los apartados correspondientes.
 
 
-[1.Algoritmo apriori desarrollado en python](https://github.com/Emmazch22/CI-0163_B98729/blob/main/Laboratorios/Laboratorio%203_Análisis%20de%20asociación/algoritmo_apriori.ipynbb)
+[1.Algoritmo apriori desarrollado en python](https://github.com/Emmazch22/CI-0163_B98729/blob/main/Laboratorios/Laboratorio%203_Análisis%20de%20asociación/algoritmo_apriori.ipynb)
 
 [2.Market Basket Analysis y MLxtend](https://github.com/Emmazch22/CI-0163_B98729/blob/main/Laboratorios/Laboratorio%203_Análisis%20de%20asociación/reporte_tutorial.ipynb)
